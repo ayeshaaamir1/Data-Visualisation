@@ -4,4 +4,4 @@ Using Python to visualise key relationships between variables in a dataset. The 
 <br>
 
 ### Link
-Static Webpage for viewing Plotly visualisations: [Data Visualisation](https://nbviewer.org/github/ayeshaaamir1/Data-Visualisation/blob/main/Data%20Visualisation.ipynb)
+Webpage for viewing Plotly visualisations: [Data Visualisation](https://nbviewer.org/github/ayeshaaamir1/Data-Visualisation/blob/main/Data%20Visualisation.ipynb)
